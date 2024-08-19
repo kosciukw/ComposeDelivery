@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ComposeDeliveryApp</string>
+    <string name="splash_screen_header">Non-Contact\nDeliveries</string>
+    <string name="splash_screen_description">When placing an order, select the option\n“Contactless delivery” and the courier will leave\nyour order at the door.</string>
+    <string name="splash_screen_button_order_now">Order now</string>
+    <string name="splash_screen_button_dismiss_now">Dismiss</string>
+    <string name="bottom_menu_categories_title">Categories</string>
+    <string name="bottom_menu_shopping_cart_title">Shopping cart</string>
+    <string name="bottom_menu_personal_info_title">Personal info</string>
+    <string name="main_screen_top_app_bar_back_icon_description">Back</string>
+    <string name="categories_screen_header">Categories</string>
+    <string name="menu_screen_search">Search</string>
+    <string name="card_item_piece_price_label"> / a piece</string>
+    <string name="menu_shopping_cart_screen_payment_method">Payment method</string>
+    <string name="menu_shopping_cart_screen_change">Change</string>
+    <string name="menu_shopping_cart_screen_delivery_address">Delivery address</string>
+    <string name="menu_shopping_cart_screen_credit_card_number_fixture">**** **** **** 4747</string>
+    <string name="menu_shopping_cart_screen_credit_address_fixture">Alexandra Smith\nCesu 31 k-2 5.st, SIA Chili\nRiga\nLV–1012\nLatvia</string>
+    <string name="menu_shopping_cart_screen_delivery_options">Delivery options</string>
+    <string name="menu_shopping_cart_screen_delivery_option_self">I\'ll pick it up myself</string>
+    <string name="menu_shopping_cart_screen_delivery_option_courier">By courier</string>
+    <string name="menu_shopping_cart_screen_delivery_option_drone">By drone</string>
+    <string name="menu_shopping_cart_screen_non_contact_delivery">Non-contact-delivery</string>
+    <string name="payment_info_screen_header">Credit / Debit card</string>
+    <string name="payment_info_screen_button">Use this card</string>
+</resources>
